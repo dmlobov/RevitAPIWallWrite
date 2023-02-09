@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPIWallWrite.dll"</Assembly>
+		<AddInId>583F6F7E-6ECD-421D-9B5F-875EC6677B0D</AddInId>
+		<FullClassName>RevitAPIWallWrite.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>WallWrite</Text>
+	</AddIn>
+</RevitAddIns>
